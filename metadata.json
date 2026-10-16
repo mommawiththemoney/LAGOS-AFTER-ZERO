@@ -1,0 +1,6 @@
+{
+  "name": "Lagos: After Zero",
+  "description": "A 3D open-world survival adventure set in abandoned Lagos, Nigeria. Explore the Silent Mainland, manage survival needs, repair equipment, uncover radio transmissions, and survive after Zero Hour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
